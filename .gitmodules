@@ -1,0 +1,6 @@
+[submodule "rails_env_chef"]
+	path = rails_env_chef
+	url = https://github.com/kazuooooo/rails_env_chef.git
+[submodule "deploy_sample_project"]
+	path = deploy_sample_project
+	url = https://github.com/kazuooooo/deploy_sample_project.git
