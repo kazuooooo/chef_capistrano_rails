@@ -52,7 +52,7 @@ bundle exec knife configure # all enter
 ```
 
 Before cook, you have to put .secret directory to rails_env_chef/
-(this is not on git repo, you need get from me)
+(this is not on git repo)
 ```
 mv .secret git_repo/rails_env_chef/.secret
 ```
